@@ -3,9 +3,11 @@ author: sajasmohammed
 email: sajasam97@gmail.com
 description: sdfghsdfghdfg
 baseurl: sdfgh
+theme: minima
+
 
 # social links
-twitter_username: sajasmohammed # DO NOT include the @ character, or else the build will fail!
-github_username:  sajasmohammed # DO NOT include the @ character, or else the build will fail!
+twitter_username: sajasmohammed
+github_username:  sajasmohammed
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false
